@@ -76,5 +76,8 @@
     { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.481688, "longitude": -52.007643, "description": "Col. Alto Glória",             "address": "R. José Joaquin Bahls",           "bairro": "Alto Glória"  }, 
     { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.477455, "longitude": -52.014512, "description": "Metal Maq",                    "address": "R. José Joaquin Bahls",           "bairro": "Alto Glória"  }, 
     { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.476312, "longitude": -52.017665, "description": "Trevo Industrial",             "address": "R. José Joaquin Bahls",           "bairro": "Alto Glória"  },
-    { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.469401, "longitude": -52.016290, "description": "Merc. Melpan",                 "address": "Av. Pe. V. Parigot de Souza",     "bairro": "Lagoão"       }
+    { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.469401, "longitude": -52.016290, "description": "Merc. Melpan",                 "address": "Av. Pe. V. Parigot de Souza",     "bairro": "Lagoão"       },
+    { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.470137, "longitude": -52.012855, "description": "Merc. Martinelli",             "address": "Av. Pe. V. Parigot de Souza",     "bairro": "Lagoão"       },  
+    { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.470647, "longitude": -52.007740, "description": "Nerazi M. Cauza",              "address": "Av. Pe. V. Parigot de Souza",     "bairro": "Lagoão"       },
+    { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.469744, "longitude": -52.004425, "description": "UBS Lagoão",                   "address": "Av. Pe. V. Parigot de Souza",     "bairro": "Lagoão"       }
 ]
