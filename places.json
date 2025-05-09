@@ -26,7 +26,7 @@
     { "uuid": "3b3cd45f-0c53-492b-95b9-48e74c32d348", "latitude": -26.471245, "longitude": -51.998810, "description": "UBS Hípica",                   "address": "R. Bituruna",                     "bairro": "Hípica"    }, 
     { "uuid": "3b3cd45f-0c53-492b-95b9-48e74c32d348", "latitude": -26.469501, "longitude": -51.996955, "description": "Praça Hípica",                 "address": "R. Mangueirinha",                 "bairro": "Hípica"    },
     { "uuid": "3b3cd45f-0c53-492b-95b9-48e74c32d348", "latitude": -26.466851, "longitude": -51.995266, "description": "Fapolpa",                      "address": "R. Ema Mazalotti Cardoso",        "bairro": "Hípica"    },
-    { "uuid": "3b3cd45f-0c53-492b-95b9-48e74c32d348", "latitude": -26.469205, "longitude": -51.998942, "description": "Hípica",                       "address": "R. Roberto Schnaufer",            "bairro": "Hípica"    }, 
+    { "uuid": "3b3cd45f-0c53-492b-95b9-48e74c32d348", "latitude": -26.469060, "longitude": -51.998866, "description": "Hípica",                       "address": "R. Roberto Schnaufer",            "bairro": "Hípica"    }, 
     { "uuid": "3b3cd45f-0c53-492b-95b9-48e74c32d348", "latitude": -26.470976, "longitude": -52.001995, "description": "Praça Nsa Aparecida",          "address": "R. Pres. Getulio Vargas",         "bairro": "Lagoão"    },
     { "uuid": "3b3cd45f-0c53-492b-95b9-48e74c32d348", "latitude": -26.467071, "longitude": -52.005243, "description": "Banak",                        "address": "R. Pres. Getulio Vargas",         "bairro": "Lagoão"    },
     { "uuid": "3b3cd45f-0c53-492b-95b9-48e74c32d348", "latitude": -26.468067, "longitude": -52.007694, "description": "Lagoão",                       "address": "R. Paulo Banak",                  "bairro": "Lagoão"    },
