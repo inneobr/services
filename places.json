@@ -85,5 +85,5 @@
     { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.466851, "longitude": -51.995266, "description": "Fapolpa",                      "address": "R. Ema Mazalotti Cardoso",        "bairro": "Hípica"    },
     { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.469060, "longitude": -51.998866, "description": "Hípica",                       "address": "R. Roberto Schnaufer",            "bairro": "Hípica"    },  
     { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.465413, "longitude": -52.007348, "description": "UPA Lagoão",                   "address": "R. Pres. Getulio Vargas",         "bairro": "Lagoão"    },
-    { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.456588, "longitude": -51.999309, "description": "Escola Pitanga",               "address": "Estrada Pitanga",                 "bairro": "Pitanga"   },
+    { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.456588, "longitude": -51.999309, "description": "Escola Pitanga",               "address": "Estrada Pitanga",                 "bairro": "Pitanga"   }
  ]
