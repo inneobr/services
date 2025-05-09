@@ -67,5 +67,14 @@
     { "uuid": "3b3cd45f-0c53-492b-95b9-48e74c32d348", "latitude": -26.491377, "longitude": -51.990276, "description": "Rodoviária Municipal",         "address": "R. Prof. Henrique J. Berhost",    "bairro": "Divino"    },
     { "uuid": "3b3cd45f-0c53-492b-95b9-48e74c32d348", "latitude": -26.496244, "longitude": -51.989831, "description": "Nascer Para Arte",             "address": "Av. Bento Munhoz da Rocha Neto",  "bairro": "klubegi"   },
     { "uuid": "3b3cd45f-0c53-492b-95b9-48e74c32d348", "latitude": -26.506583, "longitude": -51.992620, "description": "Casa N 2000",                  "address": "Av. Bento Munhoz da Rocha Neto",  "bairro": "klubegi"   },
-    { "uuid": "3b3cd45f-0c53-492b-95b9-48e74c32d348", "latitude": -26.511679, "longitude": -51.984968, "description": "IFPR: Instituto Federal",      "address": "R. Universitaria",                "bairro": "klubegi"   }
+    { "uuid": "3b3cd45f-0c53-492b-95b9-48e74c32d348", "latitude": -26.511679, "longitude": -51.984968, "description": "IFPR: Instituto Federal",      "address": "R. Universitaria",                "bairro": "klubegi"   },
+    { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.491377, "longitude": -51.990276, "description": "Rodoviária Municipal",         "address": "R. Prof. Henrique J. Berhost",    "bairro": "Centro"    },
+    { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.489668, "longitude": -51.988761, "description": "Prefeitura Municipal",         "address": "Av. Const. Fab. da Silva Pinto",  "bairro": "Centro"    },
+    { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.487594, "longitude": -51.990272, "description": "Col. Dom. Carlos",             "address": "Av. Const. Fab. da Silva Pinto",  "bairro": "Centro"    },
+    { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.483895, "longitude": -51.992876, "description": "Praça Bom Jesus",              "address": "R. Bispo Dom Carlos",             "bairro": "Centro"    },
+    { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.482456, "longitude": -51.996898, "description": "Bairro São José",              "address": "R. Rafael Ribas, 222",            "bairro": "São José"  }, 
+    { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.481688, "longitude": -52.007643, "description": "Col. Alto Glória",             "address": "R. José Joaquin Bahls",           "bairro": "Alto Glória"  }, 
+    { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.477455, "longitude": -52.014512, "description": "Metal Maq",                    "address": "R. José Joaquin Bahls",           "bairro": "Alto Glória"  }, 
+    { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.476312, "longitude": -52.017665, "description": "Trevo Industrial",             "address": "R. José Joaquin Bahls",           "bairro": "Alto Glória"  },
+    { "uuid": "23b16ddf-4a93-4d0b-870a-5e9bb0561660", "latitude": -26.469401, "longitude": -52.016290, "description": "Merc. Melpan",                 "address": "Av. Pe. V. Parigot de Souza",     "bairro": "Lagoão"       }
 ]
