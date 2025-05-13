@@ -1,31 +1,31 @@
 [
     {
         "id": 1,
-        "cod": "RV20251",
+        "cod": "RV2501",
         "tp": "Rodoviária",
         "tf": "Vila Rural"
     },
     {
         "id": 2,
-        "cod": "RI20252",
+        "cod": "RI2502",
         "tp": "Lagoão",
         "tf": "Coamo / Insana"
     },
     {
         "id": 3,
-        "cod": "IE20253",
+        "cod": "IE2503",
         "tp": "IFPR - Instituto Federal",
         "tf": "Eldourado"
     },
     {
         "id": 4,
-        "cod": "RF20254",
+        "cod": "RF2504",
         "tp": "Rodoviária",
         "tf": "Fortunato"
     },
     {
         "id": 5,
-        "cod": "RT20255",
+        "cod": "RT2505",
         "tp": "Rodoviária",
         "tf": "Tia Joana"
     }
