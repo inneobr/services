@@ -1,0 +1,142 @@
+[
+    {
+        "codigo": "BRT2500",
+        "partida": "05:35",
+        "retorno": "07:20"
+    },
+    {
+        "codigo": "BRT2500",
+        "partida": "08:00",
+        "retorno": "09:30"
+    },
+    {
+        "codigo": "BRT2500",
+        "partida": "10:00",
+        "retorno": "11:50"
+    },
+    {
+        "codigo": "BRT2500",
+        "partida": "12:00",
+        "retorno": "13:40"
+    },
+    {
+        "codigo": "BRT2500",
+        "partida": "13:40",
+        "retorno": "15:05"
+    },
+    {
+        "codigo": "BRT2500",
+        "partida": "15:15",
+        "retorno": "17:05"
+    },
+    {
+        "codigo": "BRT2500",
+        "partida": "17:30",
+        "retorno": "19:15"
+    },
+    {
+        "codigo": "BRT2500",
+        "partida": "19:30",
+        "retorno": "21:00"
+    },
+    {
+        "codigo": "BRT2500",
+        "partida": "21:30",
+        "retorno": "22:55"
+    },
+    {
+        "codigo": "BRT2500",
+        "partida": "23:00",
+        "retorno": "24:45"
+    },
+    {
+        "codigo": "BRT2501",
+        "partida": "06:00",
+        "retorno": "07:30"
+    },
+    {
+        "codigo": "BRT2501",
+        "partida": "08:00",
+        "retorno": "09:30"
+    },
+    {
+        "codigo": "BRT2501",
+        "partida": "10:00",
+        "retorno": "11:30"
+    },
+    {
+        "codigo": "BRT2501",
+        "partida": "12:00",
+        "retorno": "13:30"
+    },
+    {
+        "codigo": "BRT2501",
+        "partida": "14:00",
+        "retorno": "16:40"
+    },
+    {
+        "codigo": "BRT2501",
+        "partida": "17:10",
+        "retorno": "18:20"
+    },
+    {
+        "codigo": "BRT2501",
+        "partida": "18:30",
+        "retorno": "20:00"
+    },
+    {
+        "codigo": "BRT2501",
+        "partida": "21:00",
+        "retorno": "22:30"
+    },
+    {
+        "codigo": "BRT2501",
+        "partida": "23:00",
+        "retorno": "24:30"
+    },
+    {
+        "codigo": "BRT2502",
+        "partida": "06:00",
+        "retorno": "07:30"
+    },
+    {
+        "codigo": "BRT2502",
+        "partida": "08:00",
+        "retorno": "09:30"
+    },
+    {
+        "codigo": "BRT2502",
+        "partida": "10:00",
+        "retorno": "11:30"
+    },
+    {
+        "codigo": "BRT2502",
+        "partida": "12:00",
+        "retorno": "13:25"
+    },
+    {
+        "codigo": "BRT2502",
+        "partida": "14:00",
+        "retorno": "16:45"
+    },
+    {
+        "codigo": "BRT2502",
+        "partida": "17:00",
+        "retorno": "18:20"
+    },
+    {
+        "codigo": "BRT2502",
+        "partida": "18:40",
+        "retorno": "20:10"
+    },
+    {
+        "codigo": "BRT2502",
+        "partida": "21:00",
+        "retorno": "22:30"
+    },
+    {
+        "codigo": "BRT2502",
+        "partida": "23:00",
+        "retorno": "24:30"
+    }
+]
